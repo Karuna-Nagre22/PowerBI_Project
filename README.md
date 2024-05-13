@@ -6,8 +6,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ![Revenue](https://github.com/Karuna-Nagre22/PowerBI_Project/assets/169028009/25659d6a-7347-4c4e-b97a-4349a08ed23f)
 
-The abov graph shows best month for revenue generating is February with the revenue of $4,799,844 because of Valentine's Day and other occassions like National Dark Chocolate Date, National Freedom Day 
-Data Source: The dataset used for this analysis is the "ac-dashboard-contest-data-v1-1 (2).xlsx" file containing detailed information about each category sale made by company.
+The abov graph shows best month for revenue generating is February with the revenue $4,799,844, Profit $20,524,070 and profit % of 60.29% because of occasions like Valentine's Day, National Dark Chocolate Day, and National Freedom Day. 
 
 ### Data Sources
 
