@@ -50,5 +50,10 @@ EDA involved exploring the sales data to answer key questions, such as:
  
   ![ColumnChart](https://github.com/Karuna-Nagre22/PowerBI_Project/assets/169028009/5caf5a2e-2c35-4fb3-af9f-d25ac3738c87)
 
-- Total box shipment count is 2M out of which  low-Box shipment (shipment with box count under 50) is  624.  We have seen good profit % in the 4th quarter December month of 2023 and 1st quarter of February month 62.11% and 63.35% even with the low-box Shipment count. 
+- Total box shipment count is 2M out of which  low-Box shipment (shipment with box count under 50) is  624.  We have seen good profit % in the 4th quarter December month of 2023 and 1st quarter of February month 62.11% and 63.35% even with the low-box Shipment count.
+
+### Recommendations
+Based on the analysis, we recommend the following actions:
+- Invest in marketing and promotions during peak sales seasons to maximize revenue.
+- Focus on expanding and promoting products which are in the bottom level such as Mint Chip Choco, Eclairs, 70% Dark Bites etc.,
 
